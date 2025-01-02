@@ -53,7 +53,7 @@ dev_dependencies:
 flutter_native_splash:
   ios: true
   android: true
-  color: "#99CCFF"
+  color: "#000000"
   image: "assets/WALLPAPER.png"
 
 
